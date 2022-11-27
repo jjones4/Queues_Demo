@@ -1,2 +1,2 @@
 # Queues_Demo
-Queues Demonstration
+Custom implementation of a queue in C# to demonstrate proficiency
